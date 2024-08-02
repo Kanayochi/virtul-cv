@@ -4,7 +4,7 @@ A responsive and interactive personal portfolio website showcasing my skills, ex
 
 ## Hosting
 
-This portfolio is hosted on GitHub Pages, providing a simple and free hosting solution. The live site can be accessed at [your-username.github.io/portfolio](https://your-username.github.io/portfolio).
+This portfolio is hosted on GitHub Pages, providing a simple and free hosting solution.
 
 ## Innovation
 
